@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jianingPeng0382
-- 👀 I’m doing my B.S in BJTU
+- 👀 I’m doing my PhD in BJTU
 - 🌱 I’m currently learning CS
-- 📫 How to reach me?  21221337@bjtu.edu.cn / pjianing0802@gmail.com
+- 📫 How to reach me?  25110167@bjtu.edu.cn / pjianing0802@gmail.com
 
 
 <!---
