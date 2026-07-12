@@ -12,9 +12,10 @@ My research focuses on visual generative AI, with an emphasis on:
 
 ## Selected Research
 
-- **StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling** — *ACM Multimedia 2026, accepted*. Structured context modeling for precise attribute-subject grounding in multi-reference generation.
+- **StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling** — *ACM Multimedia 2026*. Structured context modeling for precise attribute-subject grounding in multi-reference generation.
 - **CharaConsist: Fine-Grained Consistent Character Generation** — *ICCV 2025*. A training-free method for fine-grained character consistency in DiT-based generation. [[paper](https://arxiv.org/abs/2507.11533)] [[code](https://github.com/Murray-Wang/CharaConsist)]
-- **DCEdit: Dual-Level Controlled Image Editing via Precisely Localized Semantics** — *ACM MM Workshop 2025*. Precise local image editing through dual-level semantic control. [[paper](https://arxiv.org/pdf/2503.16795)]
+- **DC-Edit: Dual-Level Controlled Image Editing via Precisely Localized Semantics** — *ACM MM Workshop 2025*. Precise local image editing through dual-level semantic control. [[paper](https://arxiv.org/pdf/2503.16795)] [[code](https://github.com/YihanHu-2022/DC-Edit)]
+- **CVC: On Exact Editing of Flow-Based Diffusion Models** — *ECCV 2026*. Exact image editing through flow-based diffusion modeling.
 
 ## Links
 
