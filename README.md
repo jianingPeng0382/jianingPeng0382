@@ -20,7 +20,7 @@ My research focuses on visual generative AI, with an emphasis on:
 ## Links
 
 - [Personal website](https://jianingpeng0382.github.io)
-- [CV](https://jianingpeng0382.github.io/Jianing_cv_26.pdf)
+- [CV](https://jianingpeng0382.github.io/Jianing_cv_2026.pdf)
 - [Email](mailto:pjianing0802@gmail.com)
 - [GitHub repositories](https://github.com/jianingPeng0382?tab=repositories)
 
