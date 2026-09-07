@@ -1,6 +1,6 @@
 # Jianing Peng
 
-PhD student in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), advised by [Prof. Yunchao Wei](https://weiyc.github.io/). I am also a research intern at [MT Lab, Meitu](https://mtlab.meitu.com/en/?lang=en).
+Second-year PhD student in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), advised by [Prof. Yunchao Wei](https://weiyc.github.io/). I am also a research intern at [MT Lab, Meitu](https://mtlab.meitu.com/en/?lang=en).
 
 My research focuses on visual generative AI, with an emphasis on:
 
